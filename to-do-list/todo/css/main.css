@@ -77,9 +77,9 @@ body::-webkit-scrollbar-thumb {
 }
 #tasks-list li {
 	width: 100%;
-	background-color: #1c5f91e8;
+	background-color: f1305dbf;
 	border: 1px solid black;
-	margin-bottom: 0.1rem;
+	margin-bottom: 0.3rem;
 
 }
 #tasks-list li .remove,
